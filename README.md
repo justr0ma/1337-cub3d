@@ -7,6 +7,8 @@ This is Project is about creating a 3D game using C programming language and a g
 cub3d-subject: 
 https://cdn.intra.42.fr/pdf/pdf/102417/en.subject.pdf
 
-Setup/Installation Requirements
+Setup/Installation Requirements:
+
 to run the game you just type 'make; ./Cub3D followed by the map to one of the maps in the maps directory provided by me' but You got to have Minilbx installed into your computer
-to run you have to change the Makefile to be Compatible with the linux envirnoment check the documentation here
+
+to run you have to change the Makefile to be Compatible with the linux envirnoment check the documentation [here](https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html)https://harm-smits.github.io/42docs/libs/minilibx/getting_started.html
